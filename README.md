@@ -1,0 +1,3 @@
+-npx prisma migrate dev --name init
+-use swr
+-use next auth
